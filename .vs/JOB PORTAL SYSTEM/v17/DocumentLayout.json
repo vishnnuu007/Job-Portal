@@ -1,0 +1,1086 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_provider\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_provider\\interviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\interviews\\interface\\iinterviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\interviews\\interface\\iinterviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\interviews\\interface\\iinterviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\interviews\\interface\\iinterviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\interviews\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\interviews\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\interviews\\interviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\interviews\\interviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\jobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\auth\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\auth\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_provider\\candidatefiltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_provider\\candidatefiltercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_provider\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_provider\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_provider\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_provider\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_provider\\providercompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_provider\\providercompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_provider\\viewjobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_provider\\viewjobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\candidate\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\candidate\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\candidate\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\candidate\\dto\\candidatefilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\candidate\\dto\\candidatefilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\candidate\\dto\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\candidate\\dto\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewjobs\\dto\\viewcompanyjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewjobs\\dto\\viewcompanyjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewjobs\\viewjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewjobs\\viewjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\job_service\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\job_service\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\jobseeker_module\\profile\\service\\jobseekerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jobseeker_module\\profile\\service\\jobseekerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\candidate\\interface\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\candidate\\interface\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\admin\\services\\qualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\admin\\services\\qualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NetCore-Bootcamp-Offline-Batch-33\\.NetCore\\10.WebAPI\\TTD\\Workshop\\Workshop 3\\HireMeNow_WebApi_\\Domain\\Migrations\\20260428045615_one.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewcompanyapplications\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewcompanyapplications\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewcompanyapplications\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewcompanyapplications\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewcompanyapplications\\interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewcompanyapplications\\interface\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\20260518065440_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Migrations\\20260518065440_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_provider\\requestobjects\\createinterviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_provider\\requestobjects\\createinterviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewcompanyapplications\\interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewcompanyapplications\\interface\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewcompanyapplications\\dto\\companyapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewcompanyapplications\\dto\\companyapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewjobs\\viewjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewjobs\\viewjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewjobs\\interface\\iviewjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewjobs\\interface\\iviewjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\viewjobs\\interface\\iviewjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\viewjobs\\interface\\iviewjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\candidate\\interface\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\candidate\\interface\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\companyprofile\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\companyprofile\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\helper\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\helper\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\job_portal_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\job_portal_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_seeker\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_seeker\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\job portal system\\api\\job_seeker\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66638E84-C0AF-4BFE-BD04-6E99B4FD4D20}|JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj|solutionrelative:job portal system\\api\\job_seeker\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\companyprofile\\dto\\comapnyprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\companyprofile\\dto\\comapnyprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\companyprofile\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\companyprofile\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\companyprofile\\dto\\createcompanyprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\companyprofile\\dto\\createcompanyprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\companyprofile\\interface\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\companyprofile\\interface\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\services\\job_provider\\companyprofile\\interface\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\services\\job_provider\\companyprofile\\interface\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\enums\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\migrations\\20260521055326_adddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20260521055326_adddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\.netcore-bootcamp-offline-batch-33\\project\\job portal system\\domain\\migrations\\20260522063044_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20260522063044_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Candidate\\CandidateRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\CandidateRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Candidate\\CandidateRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:13:10.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Auth\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Auth\\AuthRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Auth\\AuthRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Auth\\AuthRepository.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwJQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T02:01:57.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\appsettings.json",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\appsettings.json",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\appsettings.json",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T04:46:59.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterviewsController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\InterviewsController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\InterviewsController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\InterviewsController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\InterviewsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgvzYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:36:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Program.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Program.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:22:06.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInterviewRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T01:59:34.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterviewService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\InterviewService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Interviews\\InterviewService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\InterviewService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Interviews\\InterviewService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T01:59:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInterviewService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Interviews\\Interface\\IInterviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T02:00:20.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterviewRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\InterviewRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Interviews\\InterviewRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Interviews\\InterviewRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Interviews\\InterviewRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:45:38.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Domain\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAKQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:19:51.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobProvider.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobProvider.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobProvider.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobProvider.cs",
+              "RelativeToolTip": "Domain\\Models\\JobProvider.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:41:22.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Auth\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Auth\\Interface\\IAuthRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Auth\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Auth\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T15:01:26.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\ApplicationController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\ApplicationController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\ApplicationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T04:41:35.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProviderCompanyController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\ProviderCompanyController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\ProviderCompanyController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\ProviderCompanyController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\ProviderCompanyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:09:35.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\JobController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\JobController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\JobController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\JobController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwFEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T16:10:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidateFilterController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\CandidateFilterController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\CandidateFilterController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\CandidateFilterController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\CandidateFilterController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:59:40.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewJobsController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\ViewJobsController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\ViewJobsController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\ViewJobsController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\ViewJobsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:46:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Job.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Job.cs",
+              "RelativeToolTip": "Domain\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:36:33.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobApplication.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Domain\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:59:19.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Interview.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Interview.cs",
+              "RelativeToolTip": "Domain\\Models\\Interview.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:21:57.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Extensions\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Extensions\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Extensions\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Extensions\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAYwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:48:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Domain\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAOUCAAAAAAAAAAAYwMYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:28:31.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20260522063044_Add.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\20260522063044_Add.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20260522063044_Add.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\20260522063044_Add.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20260522063044_Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:30:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\CandidateService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Candidate\\CandidateService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\CandidateService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Candidate\\CandidateService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T04:44:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:37:02.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeeker.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeeker.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T04:25:23.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CandidateDto.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateDto.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:50:32.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CandidateFilterRequest.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateFilterRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateFilterRequest.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateFilterRequest.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Candidate\\Dto\\CandidateFilterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:47:34.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ViewJobService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:07:32.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewCompanyJobDto.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\Dto\\ViewCompanyJobDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewJobs\\Dto\\ViewCompanyJobDto.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\Dto\\ViewCompanyJobDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewJobs\\Dto\\ViewCompanyJobDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:11:25.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JobCategory.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobCategory.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobCategory.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobCategory.cs",
+              "RelativeToolTip": "Domain\\Models\\JobCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:01:13.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Job_Service\\DTO\\JobDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Job_Service\\DTO\\JobDto.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Job_Service\\DTO\\JobDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Job_Service\\DTO\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:19:32.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JobSeekerProfileService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\JobSeeker_Module\\Profile\\Service\\JobSeekerProfileService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JobSeeker_Module\\Profile\\Service\\JobSeekerProfileService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\JobSeeker_Module\\Profile\\Service\\JobSeekerProfileService.cs",
+              "RelativeToolTip": "Domain\\Services\\JobSeeker_Module\\Profile\\Service\\JobSeekerProfileService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAewHUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T06:46:22.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:45:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICandidateRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:20:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Company.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Company.cs",
+              "RelativeToolTip": "Domain\\Models\\Company.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:37:08.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260428045615_one.Designer.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\.NetCore\\10.WebAPI\\TTD\\Workshop\\Workshop 3\\HireMeNow_WebApi_\\Domain\\Migrations\\20260428045615_one.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\.NetCore\\10.WebAPI\\TTD\\Workshop\\Workshop 3\\HireMeNow_WebApi_\\Domain\\Migrations\\20260428045615_one.Designer.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\.NetCore\\10.WebAPI\\TTD\\Workshop\\Workshop 3\\HireMeNow_WebApi_\\Domain\\Migrations\\20260428045615_one.Designer.cs",
+              "RelativeToolTip": "..\\..\\.NetCore\\10.WebAPI\\TTD\\Workshop\\Workshop 3\\HireMeNow_WebApi_\\Domain\\Migrations\\20260428045615_one.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:37:58.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20260521055326_Adddd.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\20260521055326_Adddd.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20260521055326_Adddd.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\20260521055326_Adddd.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20260521055326_Adddd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:53:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "QualificationService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Admin\\Services\\QualificationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Admin\\Services\\QualificationService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Admin\\Services\\QualificationService.cs",
+              "RelativeToolTip": "Domain\\Services\\Admin\\Services\\QualificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:40:36.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\ADMIN\\AdminController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\ADMIN\\AdminController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\ADMIN\\AdminController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\ADMIN\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:40:06.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:13:12.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T04:42:40.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\ApplicationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T04:50:41.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T04:30:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20260518065440_add.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\20260518065440_add.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20260518065440_add.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Migrations\\20260518065440_add.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20260518065440_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T06:54:40.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateInterviewRequest.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\RequestObjects\\CreateInterviewRequest.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\RequestObjects\\CreateInterviewRequest.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Provider\\RequestObjects\\CreateInterviewRequest.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Provider\\RequestObjects\\CreateInterviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T06:30:23.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Interface\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T04:30:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CompanyApplicationDto.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Dto\\CompanyApplicationDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Dto\\CompanyApplicationDto.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Dto\\CompanyApplicationDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewCompanyApplications\\Dto\\CompanyApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T04:35:07.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ViewJobRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewJobs\\ViewJobRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:07:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IViewJobService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:51:56.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IViewJobRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\ViewJobs\\Interface\\IViewJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:51:34.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\Candidate\\Interface\\ICandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T04:37:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Location.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Location.cs",
+              "RelativeToolTip": "Domain\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:14:44.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Skill.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\Skill.cs",
+              "RelativeToolTip": "Domain\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:51:29.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAlwEAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:14:06.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Helper\\MailRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Helper\\MailRequest.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Helper\\MailRequest.cs",
+              "RelativeToolTip": "Domain\\Helper\\MailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:39:36.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "JOB_PORTAL_SYSTEM.csproj",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\JOB_PORTAL_SYSTEM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T04:36:54.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobsController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobsController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobsController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T01:49:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SignupRequest.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\SignupRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SignupRequest.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Models\\SignupRequest.cs",
+              "RelativeToolTip": "Domain\\Models\\SignupRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:46:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "JobApplicationsController.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobApplicationsController.cs",
+              "RelativeDocumentMoniker": "JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobApplicationsController.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobApplicationsController.cs",
+              "RelativeToolTip": "JOB PORTAL SYSTEM\\Api\\Job_Seeker\\JobApplicationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:37:01.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ComapnyProfileDto.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\ComapnyProfileDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\ComapnyProfileDto.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\ComapnyProfileDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\ComapnyProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:56:04.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\CompanyProfile\\CompanyService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAEBdwBQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:14:16.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateCompanyProfileRequest.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\CreateCompanyProfileRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\CreateCompanyProfileRequest.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\CreateCompanyProfileRequest.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\CompanyProfile\\DTO\\CreateCompanyProfileRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:04:33.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyService.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyService.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:25:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyRepository.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Job_Provider\\CompanyProfile\\Interface\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T04:49:04.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Enums\\JobStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\JobStatus.cs",
+              "ToolTip": "D:\\.NetCore-Bootcamp-Offline-Batch-33\\Project\\JOB PORTAL SYSTEM\\Domain\\Enums\\JobStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\JobStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:28:33.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
