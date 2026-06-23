@@ -52,4 +52,4 @@ Job Portal System is a web application developed using ASP.NET Core Web API and 
 
 ## Author
 
-Vishnu Prasad
+Vishnu Prasad M
